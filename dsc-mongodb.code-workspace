@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "dsc-mongodb",
+			"path": ".ipynb_checkpoints/dsc-mongodb"
+		}
+	],
+	"settings": {}
+}
